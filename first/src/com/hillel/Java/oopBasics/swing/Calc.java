@@ -1,4 +1,4 @@
-package com.hillel.Java.oopBasics;
+package com.hillel.Java.oopBasics.swing;
 
 import javax.swing.*;
 
